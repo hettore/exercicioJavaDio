@@ -12,7 +12,7 @@ public class Program {
 		
 		Locale.setDefault(Locale.US);
 
-		System.out.println("Demostrando o uso dos métodos criados: ");
+		System.out.println("Demonstrando o uso dos métodos criados: ");
 		System.out.println();
 		Calculadora.soma(2, 5);
 		Calculadora.subtracao(5, 3);
@@ -20,7 +20,7 @@ public class Program {
 		Calculadora.divisao(5, 3);
 		
 		System.out.println();
-		System.out.println("Demostrando o exercício de mensagens: ");
+		System.out.println("Demonstrando o exercício de mensagens: ");
 		System.out.println();
 		Mensagem.obterMensagem(5);
 		System.out.println();
